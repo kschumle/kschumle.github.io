@@ -1,5 +1,102 @@
 body {
 
-background-color: green;
+    background-color:#E2C9EB;
+}
+
+nav > ul {
+
+        list-style-type: none;
+        background-color: #48761B;
+        width: 1480px;
+        color: #000;
+        font-family: Abel;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 150%; /* 39px */
+        text-align: center;
 
 }
+
+nav> ul > li> a:visited{
+
+    color: #E10B0B;
+}
+
+nav > ul > li> a:active{
+
+    color: #000;
+}
+
+nav > ul > li> a:hover{
+
+    color: #FFF;
+    font-family: Abel;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 39px */
+
+
+}
+
+
+
+header {
+        color: #E10B0B;
+        text-align: left;
+        font-family: "Doppio One";
+        font-size: 96px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 140%; /* 134.4px */
+        letter-spacing: 9.6px;
+
+
+}
+
+h1 {
+
+    color: #3D6800;
+    text-align: left;
+    font-family: "Doppio One";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 84px */
+    letter-spacing: 6px;
+
+}
+
+h2{
+    color: #3D6800;
+    text-align: left;
+    font-family: "Doppio One";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 67.2px */
+    letter-spacing: 4.8px;
+
+}
+
+ul > li> b{
+
+    color: #000;
+    font-family: Abel;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 39px */
+    text-align: left;
+}
+
+#Contact > div > a{
+
+    color: #000;
+    font-family: Abel;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 39px */
+} 
