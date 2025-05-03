@@ -102,6 +102,19 @@ h1 {
 
 }
 
+#Card1 {
+
+    color: #3D6800;
+    text-align: center;
+    font-family: "Doppio One";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 84px */
+    letter-spacing: 6px;
+
+}
+
 
 
 .PlayArea1{
