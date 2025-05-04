@@ -1,5 +1,4 @@
 function Start() {
-    document.getElementById("StartGame");
     let card1= Math.floor(Math.random() * 13) + 1;
     console.log(card1);
 
