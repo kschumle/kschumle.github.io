@@ -115,7 +115,7 @@ function Higher1() {
 
         if (card2 < randomnumber1) {
 
-            alert("You Lost. Try Again!")
+            alert("You Lose, Try Again!")
         }
 
         else{
@@ -348,7 +348,7 @@ function Lower1() {
 
         if (card2 > randomnumber1) {
 
-            alert("You Lost. Try Again!")
+            alert("You Lose, Try Again!")
         }
 
         else{
